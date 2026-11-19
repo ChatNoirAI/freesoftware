@@ -352,15 +352,49 @@ Chat Noir est un projet indépendant en évolution continue.
 | **LEXORA** | Legal Practice Management | v1.0.0 | [Download](https://github.com/ChatNoirAI/freesoftware/releases/tag/lexora-v1.0.0) |
 | **Chat Noir PYVault** | Python Compiler & Protection | v0.1.0 Beta | [Download](https://github.com/ChatNoirAI/freesoftware/releases/tag/pyvault-v0.1.0-beta) |
 
-### Important information / Informação importante / Informazioni importanti / Informations importantes
+## License / Licença / Licenza / Licence
 
-**PT:** As aplicações são disponibilizadas gratuitamente. A distribuição gratuita não significa necessariamente que o código-fonte seja disponibilizado ou que exista uma licença de software livre. Os termos de utilização e distribuição devem ser consultados na documentação de cada aplicação.
+**Apache License, Version 2.0**
 
-**EN:** The applications are available free of charge. Free distribution does not necessarily mean that source code is available or that an open-source licence applies. Please refer to each application's documentation for its specific terms.
+### Português (PT-PT)
 
-**IT:** Le applicazioni sono disponibili gratuitamente. La distribuzione gratuita non implica necessariamente la disponibilità del codice sorgente o l'applicazione di una licenza open source. Consultare la documentazione di ciascuna applicazione per le condizioni specifiche.
+As aplicações **NOMENCLATOR**, **LEXORA** e **Chat Noir PYVault**, desenvolvidas por Octávio Viana no âmbito do projecto Chat Noir, são distribuídas gratuitamente sob os termos da **Apache License 2.0**, na medida em que os respectivos componentes sejam da titularidade do autor e possam ser licenciados nesses termos.
 
-**FR:** Les applications sont disponibles gratuitement. La distribution gratuite ne signifie pas nécessairement que le code source est disponible ou qu'une licence open source s'applique. Veuillez consulter la documentation de chaque application pour connaître les conditions spécifiques.
+É permitida a utilização, reprodução, modificação e redistribuição do software, incluindo para fins comerciais, desde que sejam respeitadas as condições da licença.
+
+Os programas são disponibilizados como executáveis Windows (.exe). O código-fonte original não é actualmente disponibilizado neste repositório.
+
+### English (EN)
+
+**NOMENCLATOR**, **LEXORA** and **Chat Noir PYVault**, developed by Octávio Viana under the Chat Noir project, are distributed free of charge under the **Apache License 2.0**, to the extent that their components are owned by the author and may be licensed accordingly.
+
+Use, reproduction, modification and redistribution, including commercial use, are permitted subject to the terms of the licence.
+
+The applications are distributed as Windows executables (.exe). The original source code is not currently provided in this repository.
+
+### Italiano (IT)
+
+Le applicazioni **NOMENCLATOR**, **LEXORA** e **Chat Noir PYVault**, sviluppate da Octávio Viana nell'ambito del progetto Chat Noir, sono distribuite gratuitamente secondo i termini della **Apache License 2.0**, nella misura in cui i relativi componenti appartengano all'autore e possano essere concessi in licenza.
+
+Sono consentiti l'utilizzo, la riproduzione, la modifica e la ridistribuzione del software, anche per scopi commerciali, nel rispetto delle condizioni della licenza.
+
+Le applicazioni sono distribuite come file eseguibili Windows (.exe). Il codice sorgente originale non è attualmente disponibile in questo repository.
+
+### Français (FR)
+
+Les applications **NOMENCLATOR**, **LEXORA** et **Chat Noir PYVault**, développées par Octávio Viana dans le cadre du projet Chat Noir, sont distribuées gratuitement sous les conditions de la **licence Apache 2.0**, dans la mesure où leurs composants appartiennent à l'auteur et peuvent être concédés sous cette licence.
+
+L'utilisation, la reproduction, la modification et la redistribution des logiciels, y compris à des fins commerciales, sont autorisées sous réserve du respect des conditions de la licence.
+
+Les applications sont distribuées sous forme de fichiers exécutables Windows (.exe). Le code source original n'est actuellement pas disponible dans ce dépôt.
+
+### Official license
+
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+Copyright © 2026 Octávio Viana | Chat Noir
+
+Licensed under the Apache License, Version 2.0.
 
 ### Project information
 
